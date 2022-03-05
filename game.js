@@ -73,6 +73,7 @@ function checkAnswer(currentLevel) {
   };
 };
 
+// Resets the game state so that it can be started over.
 function startOver() {
   gameStart = false;
   level = 0;
