@@ -6,7 +6,7 @@
 
 ## How to Play
 
-You can access the finished Simon game through Github at this [link](https://danoru.github.io/bootSimon/index.html).
+You can access the finished Simon game through Github at this [link](https://danoru.github.io/bootSimon/index.html)).
 
 ## Project Goals
 
